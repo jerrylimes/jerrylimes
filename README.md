@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerrylovescheese
-- 👀 I’m interested in ... coding with C, Python, website building, and user interfaces designs.
+- 👀 I’m interested in ... coding with C, Python, building website, and designing user interfaces.
 - 🌱 I’m currently learning ... Swift, Java and JavaScript.
 - 💞️ I’m looking to collaborate on ... developing software on Apple platforms.
 - 📫 How to reach me ... mailto:jerrylovesapple@icloud.com, +8613120344608.
